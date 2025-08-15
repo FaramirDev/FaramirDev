@@ -68,7 +68,7 @@ Aujourd’hui en formation chez **OpenClassrooms** (diplôme Bac+3/4), je travai
 
 ---
 ## 📬 Comment me contacter ?
-- **LinkedIn** : [https://www.linkedin.com/in/alexis-rousseau-admin/](lien)
+- **LinkedIn** : [Alexis Rousseau](https://www.linkedin.com/in/alexis-rousseau-admin/)
 - **Email** : alexis.rousseau@gmail.com
 
 ---
