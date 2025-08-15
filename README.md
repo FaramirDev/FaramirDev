@@ -37,10 +37,10 @@ Aujourd’hui en formation chez **OpenClassrooms** (diplôme Bac+3/4), je travai
 
 | Projet                                                                 | Technologies utilisées                          | Compétences acquises                                                                 |
 |------------------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------------------------------------------|
-| [Projet 2 : GLPI & Support Utilisateurs]        | GLPI, ITIL                                       | Gestion de tickets, documentation, bonnes pratiques ITIL                          |
-| [Projet 4 : Infrastructure Web Sécurisée]         | Linux, Apache, SSL, FTP                         | Durcissement de serveurs, sécurité des services web                                |
-| [Projet 12 : Audit de Sécurité Active Directory]  | Windows Server, Active Directory, Stormshield   | Évaluation des vulnérabilités, rédaction de rapports d’audit                      |
-| [Projet 13 : Renforcement d’une Infrastructure]  | ANSSI, pare-feu, durcissement                   | Application des recommandations ANSSI, défense en profondeur                     |
+| **Projet 2 : GLPI & Support Utilisateurs**      | GLPI, ITIL                                       | Gestion de tickets, documentation, bonnes pratiques ITIL                          |
+| **Projet 4 : Infrastructure Web Sécurisée**        | Linux, Apache, SSL, FTP                         | Durcissement de serveurs, sécurité des services web                                |
+| **Projet 12 : Audit de Sécurité Active Directory**  | Windows Server, Active Directory, Stormshield   | Évaluation des vulnérabilités, rédaction de rapports d’audit                      |
+| **Projet 13 : Renforcement d’une Infrastructure**  | ANSSI, pare-feu, durcissement                   | Application des recommandations ANSSI, défense en profondeur                     |
 
 *(Les liens vers les repos seront ajoutés au fur et à mesure de l’avancement de la formation.)*
 
@@ -49,14 +49,14 @@ Aujourd’hui en formation chez **OpenClassrooms** (diplôme Bac+3/4), je travai
 
 ### **Outils et scripts développés** (Exemples)
 - **[Toolbox pour l’automatisation des shaders](https://github.com/FaramirDev/Python_3DTool/tree/main/Miraculous_Tool3D)** :
-  Script Python pour importer automatiquement les shaders de **Substance Painter vers Maya/RenderMan**, réduisant de **30%** le temps de traitement.
+  Script Python pour importer automatiquement les shaders de **Substance Painter vers Maya/RenderMan**, réduisant considérablement le temps de traitement.
   *Environnement : Linux, Python, Maya API.*
 
-- **[Outil de génération de présentations Nuke]** :
+- **Outil de génération de présentations Nuke** :
   Automatisation de la création de montages pour les revues de personnages, **Gain de temps** pour les équipes.
   *Environnement : Nuke (Python API), Windows.*
 
-- **[Pipeline de rendu optimisé]** :
+- **Pipeline de rendu optimisé** :
   Scripts Bash/Python pour gérer les jobs de rendu sur des fermes Linux, avec monitoring des ressources.
   *Environnement : Linux, Slurm, Python.*
 
