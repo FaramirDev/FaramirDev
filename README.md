@@ -2,7 +2,7 @@
 **Alexis Rousseau - Faramir | Futur Administrateur Système & Cybersécurité | Ancien Technical Artist 3D/VFX**
 
 ---
-## 📌 À propos de moi
+## À propos de moi
 Ancien **Technical Artist** dans l’industrie du **3D/VFX** (5 ans d’expérience), je me spécialise désormais en **administration système, réseaux et cybersécurité** pour appliquer mes compétences en **scripting, automatisation et gestion d’infrastructures techniques** à des environnements IT.
 
 Mon parcours m’a permis de développer une **expertise en** :
@@ -12,11 +12,11 @@ Mon parcours m’a permis de développer une **expertise en** :
 - **Environnements Linux/Windows** (configuration, ligne de commande).
 
 Aujourd’hui en formation chez **OpenClassrooms** (diplôme Bac+3/4), je travaille sur des projets concrets pour maîtriser :
-✅ **Administration système** (Linux, Windows Server, Active Directory)
-✅ **Réseaux** (Cisco, Stormshield, protocoles TCP/IP, DNS, DHCP)
-✅ **Cybersécurité** (audits, durcissement de systèmes, bonnes pratiques ANSSI)
-✅ **Automatisation** (Ansible, PowerShell, scripts Python)
-✅ **Cloud & DevOps** (AWS, Docker, CI/CD)
+- ✅ **Administration système** (Linux, Windows Server, Active Directory)
+- ✅ **Réseaux** (Cisco, Stormshield, protocoles TCP/IP, DNS, DHCP)
+- ✅ **Cybersécurité** (audits, durcissement de systèmes, bonnes pratiques ANSSI)
+- ✅ **Automatisation** (Ansible, PowerShell, scripts Python)
+- ✅ **Cloud & DevOps** (AWS, Docker, CI/CD)
 
 ---
 ## 🛠 Compétences Techniques
@@ -48,7 +48,7 @@ Aujourd’hui en formation chez **OpenClassrooms** (diplôme Bac+3/4), je travai
 ## 💼 Expérience Professionnelle (Technical Artist 3D/VFX)
 
 ### **Outils et scripts développés** (Exemples)
-- **[Toolbox pour l’automatisation des shaders](lien_vers_le_repo)** :
+- **[Toolbox pour l’automatisation des shaders](https://github.com/FaramirDev/Python_3DTool/tree/main/Miraculous_Tool3D)** :
   Script Python pour importer automatiquement les shaders de **Substance Painter vers Maya/RenderMan**, réduisant de **30%** le temps de traitement.
   *Environnement : Linux, Python, Maya API.*
 
@@ -74,7 +74,7 @@ Aujourd’hui en formation chez **OpenClassrooms** (diplôme Bac+3/4), je travai
 ---
 ## 🚀 Objectifs
 - **Administration** de système ou cybersécurité pour appliquer mes compétences en environnement professionnel.
-- **Contribuer à des projets open source** liés à l’automatisation ou la sécurité.
+- **Contribuer à des projets open source** liés à l’automatisation ou la **sécurité**.
 - **Devenir un expert** en infrastructures sécurisées et automatisées.
 
 ---
