@@ -69,11 +69,11 @@ Aujourd’hui en formation chez **OpenClassrooms** (diplôme Bac+3/4), je travai
 ---
 ## 📬 Comment me contacter ?
 - **LinkedIn** : [Alexis Rousseau](https://www.linkedin.com/in/alexis-rousseau-admin/)
-- **Email** : alexis.rousseau@gmail.com
+- **Email** : alexisrousseau.work@gmail.com
 
 ---
 ## 🚀 Objectifs
-- **Administration** de système ou cybersécurité pour appliquer mes compétences en environnement professionnel.
+- **Administration** de système ou **Cybersécurité** pour appliquer mes compétences en environnement professionnel.
 - **Contribuer à des projets open source** liés à l’automatisation ou la **sécurité**.
 - **Devenir un expert** en infrastructures sécurisées et automatisées.
 
