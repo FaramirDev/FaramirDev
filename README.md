@@ -12,6 +12,7 @@ Mon parcours m’a permis de développer une **expertise en** :
 - **Environnements Linux/Windows** (configuration, ligne de commande).
 
 Aujourd’hui en formation chez **OpenClassrooms** , diplôme Bac+3/4 en **Admnistrateur Système Réseau et Cybersécurité**
+
 je travaille sur des projets concrets pour maîtriser :
 - ✅ **Administration système** (Linux, Windows Server, Active Directory)
 - ✅ **Réseaux** (Cisco, Stormshield, protocoles TCP/IP, DNS, DHCP)
@@ -73,7 +74,7 @@ je travaille sur des projets concrets pour maîtriser :
 - **Email** : alexisrousseau.work@gmail.com
 
 ---
-## 🚀 Objectifs
+## Objectifs
 - **Administration** de système réseaux et **Cybersécurité** pour appliquer mes compétences en environnement professionnel.
 - **Contribuer à des projets open source** liés à l’automatisation ou la **sécurité**.
 - **Devenir un expert** en infrastructures sécurisées et automatisées.
