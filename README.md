@@ -1,5 +1,5 @@
 # 👋 Hey, c'est Faramir !
-**Alexis Rousseau - Faramir | Administrateur Système Réseaux & Cybersécurité | Linux / Windows | Automatisation IT **
+**Alexis Rousseau - Faramir | Administrateur Système Réseaux & Cybersécurité | Linux / Windows | Automatisation IT**
 
 ---
 ## À propos de moi
@@ -11,7 +11,7 @@ Mon parcours m’a permis de développer une **expertise en** :
 - **Résolution de problèmes** (dépannage, collaboration avec les équipes IT).
 - **Environnements Linux/Windows** (configuration, ligne de commande).
 
-Aujourd’hui en formation chez **OpenClassrooms** , diplôme Bac+3/4 en Admnistrateur Système Réseau et Cybersécurité
+Aujourd’hui en formation chez **OpenClassrooms** , diplôme Bac+3/4 en **Admnistrateur Système Réseau et Cybersécurité**
 je travaille sur des projets concrets pour maîtriser :
 - ✅ **Administration système** (Linux, Windows Server, Active Directory)
 - ✅ **Réseaux** (Cisco, Stormshield, protocoles TCP/IP, DNS, DHCP)
@@ -46,7 +46,7 @@ je travaille sur des projets concrets pour maîtriser :
 *(Les liens vers les repos seront ajoutés au fur et à mesure de l’avancement de la formation.)*
 
 ---
-## 💼 Expérience Professionnelle (Technical Artist 3D/VFX)
+## 💼 Expérience Professionnelle (Technical Developper)
 
 ### **Outils et scripts développés** (Exemples)
 - **[Toolbox pour l’automatisation des shaders](https://github.com/FaramirDev/Python_3DTool/tree/main/Miraculous_Tool3D)** :
@@ -79,4 +79,3 @@ je travaille sur des projets concrets pour maîtriser :
 - **Devenir un expert** en infrastructures sécurisées et automatisées.
 
 ---
-
