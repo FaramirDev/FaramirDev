@@ -1,9 +1,9 @@
 # 👋 Hey, c'est Faramir !
-**Alexis Rousseau - Faramir | Futur Administrateur Système & Cybersécurité | Ancien Technical Artist 3D/VFX**
+**Alexis Rousseau - Faramir | Administrateur Système Réseaux & Cybersécurité | Linux / Windows | Automatisation IT **
 
 ---
 ## À propos de moi
-Ancien **Technical Artist** dans l’industrie du **3D/VFX** (5 ans d’expérience), je me spécialise désormais en **administration système, réseaux et cybersécurité** pour appliquer mes compétences en **scripting, automatisation et gestion d’infrastructures techniques** à des environnements IT.
+Après 5 ans en tant que **Technical Developer** dans l’industrie du **VFX**, je me spécialise désormais en **administration système, réseaux et cybersécurité** pour appliquer mes compétences en **scripting, automatisation et gestion d’infrastructures techniques** à des environnements IT.
 
 Mon parcours m’a permis de développer une **expertise en** :
 - **Scripting** (Python, Bash) pour automatiser des tâches répétitives.
@@ -11,7 +11,8 @@ Mon parcours m’a permis de développer une **expertise en** :
 - **Résolution de problèmes** (dépannage, collaboration avec les équipes IT).
 - **Environnements Linux/Windows** (configuration, ligne de commande).
 
-Aujourd’hui en formation chez **OpenClassrooms** (diplôme Bac+3/4), je travaille sur des projets concrets pour maîtriser :
+Aujourd’hui en formation chez **OpenClassrooms** , diplôme Bac+3/4 en Admnistrateur Système Réseau et Cybersécurité
+je travaille sur des projets concrets pour maîtriser :
 - ✅ **Administration système** (Linux, Windows Server, Active Directory)
 - ✅ **Réseaux** (Cisco, Stormshield, protocoles TCP/IP, DNS, DHCP)
 - ✅ **Cybersécurité** (audits, durcissement de systèmes, bonnes pratiques ANSSI)
@@ -19,7 +20,7 @@ Aujourd’hui en formation chez **OpenClassrooms** (diplôme Bac+3/4), je travai
 - ✅ **Cloud & DevOps** (AWS, Docker, CI/CD)
 
 ---
-## 🛠 Compétences Techniques
+## Compétences Techniques
 
 | Catégorie               | Compétences                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
@@ -37,10 +38,10 @@ Aujourd’hui en formation chez **OpenClassrooms** (diplôme Bac+3/4), je travai
 
 | Projet                                                                 | Technologies utilisées                          | Compétences acquises                                                                 |
 |------------------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------------------------------------------|
-| **Projet 2 : GLPI & Support Utilisateurs**      | GLPI, ITIL                                       | Gestion de tickets, documentation, bonnes pratiques ITIL                          |
+| **Projet 5 : Raccorder une Entité et ses postes de travail au SI**  | Windows Server, Active Drectory, Stormshield , durcissement                   |  Configurer un environnement ADDS-RODC-VPN pour assurer une connexion sécurisée et efficace                  |
 | **Projet 4 : Infrastructure Web Sécurisée**        | Linux, Apache, SSL, FTP                         | Durcissement de serveurs, sécurité des services web                                |
-| **Projet 12 : Audit de Sécurité Active Directory**  | Windows Server, Active Directory, Stormshield   | Évaluation des vulnérabilités, rédaction de rapports d’audit                      |
-| **Projet 13 : Renforcement d’une Infrastructure**  | ANSSI, pare-feu, durcissement                   | Application des recommandations ANSSI, défense en profondeur                     |
+| **Projet 3 : Concevez et Organiser un réson local**  | VLAN, CISCO, Modele TCP/IP   | DHCP / DNS, Document Architecture Technique & Plan Adressage                     |
+| **Projet 2 : GLPI & Support Utilisateurs**      | GLPI, ITIL                                       | Gestion de tickets, documentation, bonnes pratiques ITIL                          |
 
 *(Les liens vers les repos seront ajoutés au fur et à mesure de l’avancement de la formation.)*
 
@@ -62,7 +63,7 @@ Aujourd’hui en formation chez **OpenClassrooms** (diplôme Bac+3/4), je travai
 
 ---
 ## 🌱 Veille Technologique & Apprentissage Continu
-- **Certifications en cours avec Openclassroom** : Stormshield Academy, Cisco NetAcad.
+- **Certifications** : Stormshield Academy, Cisco NetAcad, Crowdsec, ANSSI.
 - **Plateformes** : TryHackMe (Cybersécurité), Root-Me (Défis techniques), Hack The Box.
 - **Communautés** : LinkedIn (Administrateurs Système France), Discord, Slack.
 
@@ -73,7 +74,7 @@ Aujourd’hui en formation chez **OpenClassrooms** (diplôme Bac+3/4), je travai
 
 ---
 ## 🚀 Objectifs
-- **Administration** de système ou **Cybersécurité** pour appliquer mes compétences en environnement professionnel.
+- **Administration** de système réseaux et **Cybersécurité** pour appliquer mes compétences en environnement professionnel.
 - **Contribuer à des projets open source** liés à l’automatisation ou la **sécurité**.
 - **Devenir un expert** en infrastructures sécurisées et automatisées.
 
