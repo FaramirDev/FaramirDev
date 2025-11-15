@@ -25,8 +25,8 @@ je travaille sur des projets concrets pour maîtriser :
 
 | Catégorie               | Compétences                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
-| **Scripting**           | Python, Bash, PowerShell, Sql                                                   |
-| **Systèmes**            | Linux (Debian/CentOS), Windows Server, Active Directory                   |
+| **Scripting**           | Python, Bash, PowerShell, SQL                                                   |
+| **Systèmes**            | Linux (Debian/Redhat), Windows Server, Active Directory                   |
 | **Réseaux**             | TCP/IP, DNS, DHCP, VLAN, OSPF, EIGRP, IPv6, Cisco Packet Tracer            |
 | **Cybersécurité**       | Audit de sécurité, durcissement de systèmes, Stormshield, CrowdSec        |
 | **Automatisation**      | Ansible, scripts Python pour pipelines, gestion de configurations          |
