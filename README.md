@@ -3,7 +3,7 @@
 
 ---
 ## À propos de moi
-Après 5 ans en tant que **Technical Developer** dans l’industrie du **VFX**, je me spécialise désormais en **administration système, réseaux et cybersécurité** pour appliquer mes compétences en **scripting, automatisation et gestion d’infrastructures techniques** à des environnements IT.
+Après 5 ans en tant que **TD** dans l’industrie du **VFX**, je me spécialise désormais en **administration système, réseaux et cybersécurité** pour appliquer mes compétences en **scripting, automatisation et gestion d’infrastructures techniques** à des environnements IT.
 
 Mon parcours m’a permis de développer une **expertise en** :
 - **Scripting** (Python, Bash) pour automatiser des tâches répétitives.
@@ -60,7 +60,7 @@ je travaille sur des projets concrets pour maîtriser :
 
 - **Pipeline de rendu optimisé** :
   Scripts Bash/Python pour gérer les jobs de rendu sur des fermes Linux, avec monitoring des ressources.
-  *Environnement : Linux, Python.*
+  *Environnement : Linux, Python.* sous-NDA
 
 ---
 ## 🌱 Veille Technologique & Apprentissage Continu
