@@ -48,7 +48,7 @@ je travaille sur des projets concrets pour maîtriser :
 *(Les liens vers les repos seront ajoutés au fur et à mesure de l’avancement de la formation.)*
 
 ---
-## ![crowdsec console](./icone/mallette_extra_low.png)  Projets en cours (Formation OpenClassrooms)  Expérience Professionnelle (Technical Developper)
+## ![crowdsec console](./icone/mallette_extra_low.png)  Expérience Professionnelle (TD)
 
 ### **Outils et scripts développés** (Quelques exemples)
 - **[Toolbox pour l’automatisation Département Characters](https://github.com/FaramirDev/Python_3DTool/tree/main/Miraculous_Tool3D)** :
