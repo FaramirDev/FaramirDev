@@ -27,12 +27,12 @@ je travaille sur des projets concrets pour maîtriser :
 | Catégorie               | Compétences                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
 | **Scripting**           | Python, Bash, PowerShell, SQL                                                   |
-| **Systèmes**            | Linux (Debian/Redhat), Windows Server, Active Directory                   |
+| **Systèmes**            | Linux (Debian/Redhat), Windows Server, Active Directory, LDAP, LAMP                   |
 | **Réseaux**             | TCP/IP, DNS, DHCP, VLAN, OSPF, EIGRP, IPv6, Cisco Packet Tracer            |
 | **Cybersécurité**       | Audit de sécurité, durcissement de systèmes, Stormshield, CrowdSec        |
 | **Automatisation**      | Ansible, scripts Python pour pipelines, gestion de configurations          |
 | **Cloud/DevOps**        | AWS (bases), Docker, principes DevOps                                      |
-| **Outils**              | Git, GLPI, Nagios, VirtualBox, VMWARE,Wireshark, Nmap                                  |
+| **Outils**              | Git, GLPI, Nagios, VirtualBox, VMWARE,Wireshark, Nmap, WordPress, NGINX, Mysql, TLS                                 |
 | **Gestion de projet**   | ITIL, documentation technique, gestion de workflows                     |
 
 ---
@@ -41,8 +41,10 @@ je travaille sur des projets concrets pour maîtriser :
 | Projet                                                                 | Technologies utilisées                          | Compétences acquises                                                                 |
 |------------------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------------------------------------------|
 | **Projet 5 : Raccorder une Entité et ses postes de travail au SI**  | Windows Server, Active Drectory, Stormshield , durcissement                   |  Configurer un environnement ADDS-RODC-VPN pour assurer une connexion sécurisée et efficace                  |
+| **[Projet 4.5 : InfraWeb NovaTech](https://github.com/FaramirDev/Projet_4.5_InfraWeb_NovaTech)**       | Linux, WordPress, Serveur LAMP, Apache, Mysql, Php, LDAP, NGINX, SSL, Failban, Vlan, Pare-feu                       | Durcissement de serveurs, sécurité des services web                                |
 | **[Projet 4 : Infrastructure Web Sécurisée](https://github.com/FaramirDev/Projet04_InfrastructureWeb_Securise)**       | Linux, Apache, SSL, FTPS, Crowdsec, Evasive                         | Durcissement de serveurs, sécurité des services web                                |
 | **Projet 3 : Concevez et Organiser un réson local**  | VLAN, CISCO, Modele TCP/IP   | DHCP / DNS, Document Architecture Technique & Plan Adressage                     |
+
 
 
 *(Les liens vers les repos seront ajoutés au fur et à mesure de l’avancement de la formation.)*
