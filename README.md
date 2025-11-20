@@ -36,7 +36,7 @@ je travaille sur des projets concrets pour maîtriser :
 | **Gestion de projet**   | ITIL, documentation technique, gestion de workflows                     |
 
 ---
-## ![crowdsec console](./icone/nouveau-projet_extra_low.png)  Projets en cours (Formation OpenClassrooms) 
+## ![crowdsec console](./icone/nouveau-projet_extra_low.png)  Projets en cours 
 
 | Projet                                                                 | Technologies utilisées                          | Compétences acquises                                                                 |
 |------------------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------------------------------------------|
