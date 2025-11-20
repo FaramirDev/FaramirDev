@@ -41,8 +41,8 @@ je travaille sur des projets concrets pour maîtriser :
 | Projet                                                                 | Technologies utilisées                          | Compétences acquises                                                                 |
 |------------------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------------------------------------------|
 | **Projet 5 : Raccorder une Entité et ses postes de travail au SI**  | Windows Server, Active Drectory, Stormshield , durcissement                   |  Configurer un environnement ADDS-RODC-VPN pour assurer une connexion sécurisée et efficace                  |
-| **[Projet 4.5 : InfraWeb NovaTech](https://github.com/FaramirDev/Projet_4.5_InfraWeb_NovaTech)**       | Linux, WordPress, Serveur LAMP, Apache, Mysql, Php, LDAP, NGINX, SSL, Failban, Vlan, Pare-feu                       | Durcissement de serveurs, sécurité des services web                                |
-| **[Projet 4 : Infrastructure Web Sécurisée](https://github.com/FaramirDev/Projet04_InfrastructureWeb_Securise)**       | Linux, Apache, SSL, FTPS, Crowdsec, Evasive                         | Durcissement de serveurs, sécurité des services web                                |
+| **[Projet 4.5 : InfraWeb NovaTech](https://github.com/FaramirDev/Projet_4.5_InfraWeb_NovaTech)**       | Linux, WordPress, Serveur LAMP, Apache, Mysql, Php, LDAP, NGINX, SSL, Fail2ban, Vlan, Pare-feu                       | Durcissement de serveurs, sécurité des services web, Intranet avec LDAP                               |
+| **[Projet 4 : Infrastructure Web Sécurisée](https://github.com/FaramirDev/Projet04_InfrastructureWeb_Securise)**       | Linux, Apache, SSL, FTPS, Crowdsec, Evasive                         | Durcissement de serveurs, sécurité des services web, Extranet/Intranet                                |
 | **Projet 3 : Concevez et Organiser un réson local**  | VLAN, CISCO, Modele TCP/IP   | DHCP / DNS, Document Architecture Technique & Plan Adressage                     |
 
 
