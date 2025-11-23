@@ -3,7 +3,7 @@
 **Alexis Rousseau** - **Administrateur Système Réseaux & Cybersécurité** | **Automatisation Python** | **Expert Workflows IT**
 
 ---
-## À propos de moi
+## <span style="color: #3498DB;">À propos de moi</span>
 Après 5 ans en tant que **TD** dans l’industrie du **VFX**, je me spécialise désormais en **administration système, réseaux et cybersécurité** pour appliquer mes compétences en **scripting, automatisation et gestion d’infrastructures techniques** à des environnements IT.
 
 Mon parcours m'a doté d'une double expertise en :
@@ -12,7 +12,7 @@ Mon parcours m'a doté d'une double expertise en :
 - **Résolution des Incidents Complexe** (expertise, dépannage, coordination IT).
 - **Environnements Linux/Windows** (configuration, ligne de commande).
 
-**Actuellement en formation Administrateur Système Réseaux & Cybersécurité chez OpenClassrooms (Bac+3/4)** pour maîtriser les domaines suivants :
+**🛡️ Actuellement en formation Administrateur Système Réseaux & Cybersécurité chez OpenClassrooms (Bac+3/4)** pour maîtriser les domaines suivants :
 
 - ![crowdsec console](./icone/bouclier-verifie_extra_low.png) **Administration système** (Linux, Windows Server, Active Directory)
 - ![crowdsec console](./icone/bouclier-verifie_extra_low.png)  **Réseaux** (Cisco, Stormshield, protocoles TCP/IP, DNS, DHCP)
@@ -21,7 +21,7 @@ Mon parcours m'a doté d'une double expertise en :
 - ![crowdsec console](./icone/bouclier-verifie_extra_low.png)  **Cloud & DevOps** (AWS, Docker, CI/CD)
 
 ---
-## Compétences Techniques
+## <span style="color: #2ECC71;">Compétences Techniques</span>
 
 | Catégorie               | Compétences                                                                 |
 |-------------------------|-----------------------------------------------------------------------------|
@@ -35,7 +35,7 @@ Mon parcours m'a doté d'une double expertise en :
 | **Gestion de projet**   | ITIL, documentation technique, gestion de workflows                     |
 
 ---
-## Projets en cours 
+## <span style="color: #3498DB;">Projets en cours</span> 
 
 Ces **projets** constituent le **portfolio technique** de ma formation et sont intégralement disponibles sur ce profil GitHub.
 
@@ -50,7 +50,7 @@ Ces **projets** constituent le **portfolio technique** de ma formation et sont i
 *(Les liens vers les repos seront ajoutés au fur et à mesure de l’avancement de la formation.)*
 
 ---
-## Expérience Professionnelle (TD)
+## <span style="color: #2ECC71;">Expérience Professionnelle (TD)</span> 
 
 ### **Outils et scripts développés** (Quelques exemples)
 - **[Toolbox pour l’automatisation Département Characters](https://github.com/FaramirDev/Python_3DTool/tree/main/Miraculous_Tool3D)** :
@@ -68,18 +68,18 @@ Ces **projets** constituent le **portfolio technique** de ma formation et sont i
 Ces expériences m'ont permit d'établir une base solide en gestion de systèmes et en développement d'outils, directement applicables à l'**Administration d'Infrastructures IT modernes.**
 
 ---
-## Veille Technologique & Apprentissage Continu
+## <span style="color: #3498DB;">Veille Technologique & Apprentissage Continu</span> 
 - **Certifications** : Stormshield Academy, Cisco NetAcad, Crowdsec, ANSSI.
 - **Plateformes** : TryHackMe (Cybersécurité), Root-Me (Défis techniques), Hack The Box.
 - **Communautés** : LinkedIn (Administrateurs Système France), Discord, Slack.
 
 ---
-## Comment me contacter ?
+## <span style="color: #2ECC71;">Comment me contacter ?</span> 
 - **LinkedIn** : [Alexis Rousseau](https://www.linkedin.com/in/alexis-rousseau-admin/)
 -  **Email** : alexisrousseau.work@gmail.com
 
 ---
-## Objectifs
+## <span style="color: #3498DB;">Objectifs</span> 
 - **Administration** de **Système, Réseaux** et **Cybersécurité** pour appliquer mes compétences en environnement professionnel.
 - **Contribuer à des projets open source** liés à l’automatisation ou la **sécurité**.
 
