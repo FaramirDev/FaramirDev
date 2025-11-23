@@ -1,6 +1,6 @@
 # 👋 Hey, c'est Faramir ! 🛡️
 
-**Alexis Rousseau** -v**Administrateur Système Réseaux & Cybersécurité** | **Automatisation (Ansible, Python) | Expert Workflows IT**
+**Alexis Rousseau** - **Administrateur Système Réseaux & Cybersécurité** | **Automatisation Python** | **Expert Workflows IT**
 
 ---
 ## À propos de moi
