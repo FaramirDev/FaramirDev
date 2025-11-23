@@ -1,20 +1,19 @@
-# 👋 Hey, c'est Faramir ! ![crowdsec console](./icone/bouclier_extra_low.png)
+# 👋 Hey, c'est Faramir ! 🛡️
 
-**Alexis Rousseau** - **Faramir** | **Administrateur Système Réseaux & Cybersécurité** | **Linux / Windows** | **Automatisation IT**
+**Alexis Rousseau** -v**Administrateur Système Réseaux & Cybersécurité** | **Automatisation (Ansible, Python) | Expert Workflows IT**
 
 ---
 ## À propos de moi
 Après 5 ans en tant que **TD** dans l’industrie du **VFX**, je me spécialise désormais en **administration système, réseaux et cybersécurité** pour appliquer mes compétences en **scripting, automatisation et gestion d’infrastructures techniques** à des environnements IT.
 
-Mon parcours m’a permis de développer une **expertise en** :
+Mon parcours m'a doté d'une double expertise en :
 - **Scripting** (Python, Bash) pour automatiser des tâches répétitives.
-- **Gestion de pipelines techniques** (workflows, versioning, optimisation).
-- **Résolution de problèmes** (expertise, dépannage, collaboration avec les équipes IT).
+- **Gestion des Workflows pipelines Techniques** (optimisation, versionning).
+- **Résolution des Incidents Complexe** (expertise, dépannage, coordination IT).
 - **Environnements Linux/Windows** (configuration, ligne de commande).
 
-Aujourd’hui en formation chez **OpenClassrooms** , diplôme Bac+3/4 en **Admnistrateur Système Réseau et Cybersécurité**
+**Actuellement en formation Administrateur Système Réseaux & Cybersécurité chez OpenClassrooms (Bac+3/4)** pour maîtriser les domaines suivants :
 
-je travaille sur des projets concrets pour maîtriser :
 - ![crowdsec console](./icone/bouclier-verifie_extra_low.png) **Administration système** (Linux, Windows Server, Active Directory)
 - ![crowdsec console](./icone/bouclier-verifie_extra_low.png)  **Réseaux** (Cisco, Stormshield, protocoles TCP/IP, DNS, DHCP)
 - ![crowdsec console](./icone/bouclier-verifie_extra_low.png)  **Cybersécurité** (audits, durcissement de systèmes, bonnes pratiques ANSSI)
@@ -32,25 +31,26 @@ je travaille sur des projets concrets pour maîtriser :
 | **Cybersécurité**       | Audit de sécurité, durcissement de systèmes, Stormshield, CrowdSec        |
 | **Automatisation**      | Ansible, scripts Python pour pipelines, gestion de configurations          |
 | **Cloud/DevOps**        | AWS (bases), Docker, principes DevOps                                      |
-| **Outils**              | Git, GLPI, Nagios, VirtualBox, VMWARE,Wireshark, Nmap, WordPress, NGINX, Mysql, TLS                                 |
+| **Outils & Méthodes**              | Git, GLPI, Nagios, VirtualBox, VMWARE,Wireshark, Nmap, WordPress, NGINX, Mysql, TLS                                 |
 | **Gestion de projet**   | ITIL, documentation technique, gestion de workflows                     |
 
 ---
-## ![crowdsec console](./icone/nouveau-projet_extra_low.png)  Projets en cours 
+## Projets en cours 
 
-| Projet                                                                 | Technologies utilisées                          | Compétences acquises                                                                 |
+Ces **projets** constituent le **portfolio technique** de ma formation et sont intégralement disponibles sur ce profil GitHub.
+
+| Projet                                                                 | Technologies utilisées                          | Objectif Sécurité/Admin                                                                 |
 |------------------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------------------------------------------|
-| **Projet 5 : Raccorder une Entité et ses postes de travail au SI**  | Windows Server, Active Drectory, Stormshield , durcissement                   |  Configurer un environnement ADDS-RODC-VPN pour assurer une connexion sécurisée et efficace                  |
+| **Projet 5 : Raccorder une Entité et ses postes de travail au SI**  | Windows Server, Active Drectory, Stormshield , durcissement                   |  Configuration d’un environnement ADDS/RODC/VPN pour assurer une **connexion sécurisée** et l'application stricte des **stratégies de sécurité**.                  |
 | **[Projet 4.5 : InfraWeb NovaTech](https://github.com/FaramirDev/Projet_4.5_InfraWeb_NovaTech)**       | Linux, WordPress, Serveur LAMP, Apache, Mysql, Php, LDAP, NGINX, SSL, Fail2ban, Vlan, Pare-feu                       | Durcissement de serveurs, sécurité des services web, Intranet avec LDAP                               |
 | **[Projet 4 : Infrastructure Web Sécurisée](https://github.com/FaramirDev/Projet04_InfrastructureWeb_Securise)**       | Linux, Apache, SSL, FTPS, Crowdsec, Evasive                         | Durcissement de serveurs, sécurité des services web, Extranet/Intranet                                |
 | **Projet 3 : Concevez et Organiser un réson local**  | VLAN, CISCO, Modele TCP/IP   | DHCP / DNS, Document Architecture Technique & Plan Adressage                     |
 
 
-
 *(Les liens vers les repos seront ajoutés au fur et à mesure de l’avancement de la formation.)*
 
 ---
-## ![crowdsec console](./icone/mallette_extra_low.png)  Expérience Professionnelle (TD)
+## Expérience Professionnelle (TD)
 
 ### **Outils et scripts développés** (Quelques exemples)
 - **[Toolbox pour l’automatisation Département Characters](https://github.com/FaramirDev/Python_3DTool/tree/main/Miraculous_Tool3D)** :
@@ -65,24 +65,26 @@ je travaille sur des projets concrets pour maîtriser :
   Scripts Bash/Python pour gérer les jobs de rendu sur des fermes Linux, avec monitoring des ressources.
   *Environnement : Linux, Python.* sous-NDA
 
+Ces expériences m'ont permit d'établir une base solide en gestion de systèmes et en développement d'outils, directement applicables à l'**Administration d'Infrastructures IT modernes.**
+
 ---
-## ![crowdsec console](./icone/inspiration_low.png)  Veille Technologique & Apprentissage Continu
+## Veille Technologique & Apprentissage Continu
 - **Certifications** : Stormshield Academy, Cisco NetAcad, Crowdsec, ANSSI.
 - **Plateformes** : TryHackMe (Cybersécurité), Root-Me (Défis techniques), Hack The Box.
 - **Communautés** : LinkedIn (Administrateurs Système France), Discord, Slack.
 
 ---
-## ![crowdsec console](./icone/courrier_extra_low.png) Comment me contacter ?
+## Comment me contacter ?
 - **LinkedIn** : [Alexis Rousseau](https://www.linkedin.com/in/alexis-rousseau-admin/)
 -  **Email** : alexisrousseau.work@gmail.com
 
 ---
 ## Objectifs
-- **Administration** de **système réseaux** et **Cybersécurité** pour appliquer mes compétences en environnement professionnel.
+- **Administration** de **Système, Réseaux** et **Cybersécurité** pour appliquer mes compétences en environnement professionnel.
 - **Contribuer à des projets open source** liés à l’automatisation ou la **sécurité**.
 
 ---
 
 Merci, bonne journée 
 
- **Alexis alias Faramir!**   ![crowdsec console](./icone/bouclier_extra_low.png)
+ **Alexis alias Faramir!**  🛡️ 
