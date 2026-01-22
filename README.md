@@ -4,7 +4,7 @@
 
 ---
 ## À propos de moi
-Après 5 ans en tant que **TD** dans l’industrie du **VFX**, je me spécialise désormais en **administration système, réseaux et cybersécurité** pour appliquer mes compétences en **scripting, automatisation et gestion d’infrastructures techniques** à des environnements IT.
+Après 5 ans en tant que **Développeur** dans l’industrie du **VFX**, je me spécialise désormais en **Administration Système, Réseaux et cybersécurité** pour appliquer mes compétences en **scripting, automatisation et gestion d’infrastructures techniques** à des environnements IT.
 
 Mon parcours m'a doté d'une double expertise en :
 - **Scripting** (Python, Bash) pour automatiser des tâches répétitives.
@@ -12,7 +12,7 @@ Mon parcours m'a doté d'une double expertise en :
 - **Résolution des Incidents Complexe** (expertise, dépannage, coordination IT).
 - **Environnements Linux/Windows** (configuration, ligne de commande).
 
-**🛡️ Actuellement en formation Administrateur Système Réseaux & Cybersécurité chez OpenClassrooms (Bac+3/4)** pour maîtriser les domaines suivants :
+**🛡️ Actuellement en formation Administrateur Système Réseaux & Cybersécurité chez OpenClassrooms (Bac+4)** pour maîtriser les domaines suivants :
 
 - ![crowdsec console](./icone/bouclier-verifie_extra_low.png) **Administration système** (Linux, Windows Server, Active Directory)
 - ![crowdsec console](./icone/bouclier-verifie_extra_low.png)  **Réseaux** (Cisco, Stormshield, protocoles TCP/IP, DNS, DHCP)
@@ -41,10 +41,10 @@ Ces **projets** constituent le **portfolio technique** de ma formation et sont i
 
 | Projet                                                                 | Technologies utilisées                          | Objectif Sécurité/Admin                                                                 |
 |------------------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------------------------------------------|
-| **Projet 5 : Raccorder une Entité et ses postes de travail au SI**  | Windows Server, Active Drectory, Stormshield , durcissement                   |  Configuration d’un environnement ADDS/RODC/VPN pour assurer une **connexion sécurisée** et l'application stricte des **stratégies de sécurité**.                  |
-| **[Projet 4.5 : InfraWeb NovaTech](https://github.com/FaramirDev/Projet_4.5_InfraWeb_NovaTech)**       | Linux, WordPress, Serveur LAMP, Apache, Mysql, Php, LDAP, NGINX, SSL, Fail2ban, Vlan, Pare-feu                       | Durcissement de serveurs, sécurité des services web, Intranet avec LDAP                               |
-| **[Projet 4 : Infrastructure Web Sécurisée](https://github.com/FaramirDev/Projet04_InfrastructureWeb_Securise)**       | Linux, Apache, SSL, FTPS, Crowdsec, Evasive                         | Durcissement de serveurs, sécurité des services web, Extranet/Intranet                                |
-| **Projet 3 : Concevez et Organiser un réson local**  | VLAN, CISCO, Modele TCP/IP   | DHCP / DNS, Document Architecture Technique & Plan Adressage                     |
+| **[Projet 5 : Raccorder une Entité et ses postes de travail au SI](https://github.com/FaramirDev/Projet_05_Infra_OpenBank)**  | Windows Server, Active Drectory, Stormshield , durcissement                   |  Configuration d’un environnement ADDS/RODC/VPN pour assurer une **connexion sécurisée** et l'application stricte des **stratégies de sécurité**.                  |
+| **[Projet 4 : Infra Web NovaTech](https://github.com/FaramirDev/Projet_4.5_InfraWeb_NovaTech)**       | Linux, WordPress, Serveur LAMP, Apache, Mysql, Php, LDAP, NGINX, SSL, Fail2ban, Vlan, Pare-feu                       | Durcissement de serveurs, sécurité des services web, **Intranet avec LDAP & NGinx**                              |
+| **[Projet 3 : Infra Web Marie Valserac](https://github.com/FaramirDev/Projet04_InfrastructureWeb_Securise)**       | Linux, Apache, SSL, FTPS, Crowdsec, Evasive                         | Durcissement de serveurs, sécurité des services web, **Extranet/Intranet**                                |
+| **Projet 2 : Concevez et Organiser un réson local**  | VLAN, CISCO, Modele TCP/IP   | DHCP / DNS, Document Architecture Technique & Plan Adressage ( **DAT** )                    |
 
 
 *(Les liens vers les repos seront ajoutés au fur et à mesure de l’avancement de la formation.)*
