@@ -45,7 +45,7 @@ Ces **projets** constituent le **portfolio technique** de ma formation et sont i
 | **[Projet 5 : Raccorder une Entité et ses postes de travail au SI](https://github.com/FaramirDev/Projet_05_Infra_OpenBank)**  | Windows Server, Active Drectory, Stormshield , Politique de Filtrage, VPN IPsec, VPN SSL                   |  Configuration d’un environnement ADDS/RODC/VPN pour assurer une **connexion sécurisée** et l'application stricte des **stratégies de sécurité**.                  |
 | **[Projet 4 : Infra Web NovaTech](https://github.com/FaramirDev/Projet_4.5_InfraWeb_NovaTech)**       | Linux, WordPress, Serveur LAMP, Apache, Mysql, Php, LDAP, NGINX, SSL, Fail2ban, Vlan, Pare-feu                       | Durcissement de serveurs, sécurité des services web, **Intranet avec LDAP & NGinx**                              |
 | **[Projet 3 : Infra Web Marie Valserac](https://github.com/FaramirDev/Projet04_InfrastructureWeb_Securise)**       | Linux, Apache, SSL, FTPS, Crowdsec, Evasive                         | Durcissement de serveurs, sécurité des services web, **Extranet/Intranet**                                |
-| **Projet 2 : Concevez et Organiser un réson local**  | VLAN, CISCO, Modele TCP/IP   | DHCP / DNS, Document Architecture Technique & Plan Adressage ( **DAT** )                    |
+| **[Projet 2 : Concevez et Organiser un réson local](https://github.com/FaramirDev/Projet_02_Infra_HillStart)**  | VLAN, CISCO, Modele TCP/IP   | DHCP / DNS, Document Architecture Technique & Plan Adressage, Schema Logique, Schema Physique, Diagramme de Gantt ( **DAT** )                    |
 
 
 *(Les liens vers les repos seront ajoutés au fur et à mesure de l’avancement de la formation.)*
