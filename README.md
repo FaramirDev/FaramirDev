@@ -41,17 +41,18 @@ Ces **projets** constituent le **portfolio technique** de ma formation et sont i
 
 | Projet                                                                 | Technologies utilisées                          | Objectif Sécurité/Admin                                                                 |
 |------------------------------------------------------------------------|--------------------------------------------------|--------------------------------------------------------------------------------------|
+| **[Projet 7 : Architecture Réseau Multi-Sites ImpactInfluence](https://github.com/FaramirDev/Projet_07_Infra_ImpactInfluence)**  | Cisco, Réseaux, IPv4, DHCP, DNS, OSPF, EtherChannel, HSRP, Spanning-Tree, Vlan                 |  Architecture Complet d'une Infrastructure Réseau Critique pour la Société Impactinfluence                  |
 | **[Projet 6 : Migration Infra en IPv6](https://github.com/FaramirDev/Projet_06_Infra_IPv6)**  | Cisco, Réseaux, IPv6, DualStack                   |  Configuration d’un environnement de **Migration** d'une Infra en IPv4 vers **IPv6**, tout en assurant une continuité de Service Sécurisé.                  |
 | **[Projet 5 : Raccorder une Entité et ses postes de travail au SI](https://github.com/FaramirDev/Projet_05_Infra_OpenBank)**  | Windows Server, Active Drectory, Stormshield , Politique de Filtrage, VPN IPsec, VPN SSL                   |  Configuration d’un environnement ADDS/RODC/VPN pour assurer une **connexion sécurisée** et l'application stricte des **stratégies de sécurité**.                  |
 | **[Projet 4 : Infra Web NovaTech](https://github.com/FaramirDev/Projet_4.5_InfraWeb_NovaTech)**       | Linux, WordPress, Serveur LAMP, Apache, Mysql, Php, LDAP, NGINX, SSL, Fail2ban, Vlan, Pare-feu                       | Durcissement de serveurs, sécurité des services web, **Intranet avec LDAP & NGinx**                              |
 | **[Projet 3 : Infra Web Marie Valserac](https://github.com/FaramirDev/Projet04_InfrastructureWeb_Securise)**       | Linux, Apache, SSL, FTPS, Crowdsec, Evasive                         | Durcissement de serveurs, sécurité des services web, **Extranet/Intranet**                                |
-| **[Projet 2 : Concevez et Organiser un réson local](https://github.com/FaramirDev/Projet_02_Infra_HillStart)**  | VLAN, CISCO, Modele TCP/IP   | DHCP / DNS, Document Architecture Technique & Plan Adressage, Schema Logique, Schema Physique, Diagramme de Gantt ( **DAT** )                    |
+| **[Projet 2 : Concevez et Organiser un réson local](https://github.com/FaramirDev/Projet_02_Infra_HillStart)**  | VLAN, Cisco, Modele TCP/IP   | DHCP / DNS, Document Architecture Technique & Plan Adressage, Schema Logique, Schema Physique, Diagramme de Gantt ( **DAT** )                    |
 
 
 *(Les liens vers les repos seront ajoutés au fur et à mesure de l’avancement de la formation.)*
 
 ---
-## ⚙️ Expérience Professionnelle (TD)
+## ⚙️ Expérience Professionnelle (Technical Developper)
 
 ### **Outils et scripts développés** (Quelques exemples)
 - **[Toolbox pour l’automatisation Département Characters](https://github.com/FaramirDev/Python_3DTool/tree/main/Miraculous_Tool3D)** :
@@ -67,6 +68,11 @@ Ces **projets** constituent le **portfolio technique** de ma formation et sont i
   *Environnement : Linux, Python.* sous-NDA
 
 Ces expériences m'ont permit d'établir une base solide en gestion de systèmes et en développement d'outils, directement applicables à l'**Administration d'Infrastructures IT modernes.**
+
+### Labs Python
+
+
+- **[Projet Contenant une 20 de TP- PythonLabs](https://github.com/FaramirDev/PythonLabs)** : Projets autours de la **manipulation de Donnée**, Des **Systèmes de Gestions**, et **Applications** developpé sous **Python**
 
 ---
 ## Veille Technologique & Apprentissage Continu
