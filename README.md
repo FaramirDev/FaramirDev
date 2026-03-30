@@ -3,7 +3,7 @@
 **Administrateur Système Réseaux & Cybersécurité** | **Automatisation Python** | **Expert Workflows IT**
 
 ---
-## À propos de moi
+## ---------- À propos de moi ----------
 Professionnel de l'IT avec une solide expérience de **5 ans en tant que Lead Technique** dans l'industrie du VFX, j'évolue aujourd'hui vers l'Administration d'Infrastructures et la Cybersécurité.
 
 Ma force réside dans ma capacité à coupler une vision **Développement (Python/APIs)** avec une gestion rigoureuse des **Infrastructures Systèmes et Réseaux.** J'approche chaque projet avec une philosophie "Automation & Security by Design".
@@ -13,7 +13,7 @@ Ma force réside dans ma capacité à coupler une vision **Développement (Pytho
 - **Valeur ajoutée** : Capacité à résoudre des incidents critiques et à industrialiser des parcs informatiques hétérogènes.
 
 ---
-## 🏛️ Expertise Techniques
+## ---------- Expertise Techniques ----------
 
 | Domaine                    | Technologies maitrisées                                                       |
 |----------------------------|-------------------------------------------------------------------------------|
@@ -24,10 +24,10 @@ Ma force réside dans ma capacité à coupler une vision **Développement (Pytho
 
 ---
 ---
-## Réalisations Techniques & Projets d'Infrastructure
+## \---------- Réalisations Techniques & Projets d'Infrastructure ----------
 Sélection de projets d'infrastructure et de sécurité simulant des environnements de production réels.
 
-## ☁️ Infrastructures Cloud & Systèmes Hybrides
+## -- ☁️ Infrastructures Cloud & Systèmes Hybrides --
 ###  📂 Projet d'Architecture Cloud & Migration Haute Disponibilité (En cours)
 
 - **Objectif** : Concevoir une infrastructure résiliente sur un fournisseur Cloud (AWS/Azure) pour garantir la continuité de service.
@@ -44,7 +44,7 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 
 - **Stack** : Ansible, Python, PowerShell, Active Directory, Veeam, Linux/Windows.
 
-## 🌐 Réseaux & Interconnexions Critiques
+## -- 🌐 Réseaux & Interconnexions Critiques --
 ### 📂 [Projet Conception d'un Backbone Réseau Multi-sites](https://github.com/FaramirDev/projet-cisco-architecture-network-secure)
 
 - **Objectif** : Créer une infrastructure réseau robuste pour une société multi-sites avec haute disponibilité.
@@ -69,7 +69,7 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 
 - **Stack** : IPv6, Cisco, Routage Dual-Stack.
 
-## 🛡️ Cybersécurité & Durcissement (Hardening)
+## -- 🛡️ Cybersécurité & Durcissement (Hardening) --
 ### 📂 [Projet Sécurisation & Durcissement d'Infrastructures Web - Wordpress](https://github.com/FaramirDev/projet-web-infrastructure-wordpress-security)
 - **Objectif** : Protéger des services Web (Extranet) contre les menaces externes et les intrusions.
 
@@ -92,7 +92,7 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 - **Stack** : Méthode de gestion de projet, Visio/Draw.io, TCP/IP, Services réseau.
 
 ---
-## 💼 Expériences Passées (Lead Technique VFX)
+## ---------- 💼 Expériences Passées (Lead Technique VFX) ----------
 Avant de me spécialiser en Admin Sys, j'ai piloté des workflows techniques pour des productions internationales (ex: Studio Miraculous).
 
 - **Automatisation de Pipeline**: Développement de boîtes à outils Python réduisant les tâches manuelles de 40% pour les départements techniques.
@@ -102,13 +102,13 @@ Avant de me spécialiser en Admin Sys, j'ai piloté des workflows techniques pou
 - **Leadership** : Encadrement technique des équipes et gestion du stress en environnement de production critique.
 
 
-## 🛡️ Veille & Labs
+## ---------- 🛡️ Veille & Labs ----------
 - **Labs** : AWS - TryHackMe & Root-Me. 
 
 - **Communauté** : Veille constante sur les bulletins de l'ANSSI et les évolutions de l'IaC.
 
 
-## 📫 Me contacter
+## ---------- 📫 Me contacter ----------
 - **LinkedIn** : [Alexis Rousseau](https://www.linkedin.com/in/alexis-rousseau-admin/)
 
 - **Email** : alexisrousseau.work@gmail.com
