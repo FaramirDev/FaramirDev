@@ -8,12 +8,12 @@ Professionnel de l'IT avec une solide expérience de **5 ans en tant que Lead Te
 
 Ma force réside dans ma capacité à coupler une vision **Développement (Python/APIs)** avec une gestion rigoureuse des **Infrastructures Systèmes et Réseaux.** J'approche chaque projet avec une philosophie "Automation & Security by Design".
 
-- ⚙️ **Spécialité** : Automatisation de workflows complexes et durcissement (Hardening) de systèmes.
+- **Spécialité** : Automatisation de workflows complexes et durcissement (Hardening) de systèmes.
 
 - **Valeur ajoutée** : Capacité à résoudre des incidents critiques et à industrialiser des parcs informatiques hétérogènes.
 
 ---
-## 🛡️ Expertise Techniques
+## 🏛️ Expertise Techniques
 
 | Domaine                    | Technologies maitrisées                                                       |
 |----------------------------|-------------------------------------------------------------------------------|
