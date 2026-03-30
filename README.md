@@ -30,7 +30,7 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 ## -- ☁️ Infrastructures Cloud & Systèmes Hybrides --
 ###  📂 Projet d'Architecture Cloud & Migration Haute Disponibilité (En cours)
 
-- **Objectif** : Concevoir une infrastructure résiliente sur un fournisseur Cloud (AWS/Azure) pour garantir la continuité de service.
+- **Objectif** : Concevoir une infrastructure résiliente sur un fournisseur Cloud (AWS) pour garantir la continuité de service.
 
 - **Réalisations** : Configuration de VPC/VNet, segmentation réseau, gestion des identités (IAM) et déploiement de passerelles de sécurité.
 
@@ -92,7 +92,7 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 - **Stack** : Méthode de gestion de projet, Visio/Draw.io, TCP/IP, Services réseau.
 
 ---
-## ---------- 💼 Expériences Passées (Lead Technique VFX) ----------
+## ---------- Expériences Passées (Lead Technique VFX) ----------
 Avant de me spécialiser en Admin Sys, j'ai piloté des workflows techniques pour des productions internationales (ex: Studio Miraculous).
 
 - **Automatisation de Pipeline**: Développement de boîtes à outils Python réduisant les tâches manuelles de 40% pour les départements techniques.
@@ -102,7 +102,7 @@ Avant de me spécialiser en Admin Sys, j'ai piloté des workflows techniques pou
 - **Leadership** : Encadrement technique des équipes et gestion du stress en environnement de production critique.
 
 
-## ---------- 🛡️ Veille & Labs ----------
+## ---------- Veille & Labs ----------
 - **Labs** : AWS - TryHackMe & Root-Me. 
 
 - **Communauté** : Veille constante sur les bulletins de l'ANSSI et les évolutions de l'IaC.
