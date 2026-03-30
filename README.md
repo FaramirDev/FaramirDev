@@ -109,6 +109,6 @@ Avant de me spécialiser en Admin Sys, j'ai piloté des workflows techniques pou
 
 
 ## 📫 Me contacter
-- **LinkedIn** : [Alexis Rousseau](!https://www.linkedin.com/in/alexis-rousseau-admin/)
+- **LinkedIn** : [Alexis Rousseau](https://www.linkedin.com/in/alexis-rousseau-admin/)
 
 - **Email** : alexisrousseau.work@gmail.com
