@@ -19,16 +19,16 @@ Ma force réside dans ma capacité à coupler une vision **Développement (Pytho
 |----------------------------|-------------------------------------------------------------------------------|
 | **Systemes & Cloud**       | Linux (Debian/RH), Windows Server (AD/GPO), Azure/AWS, Docker, VMware         |
 | **Réseaux & Security**     | Architecture Cisco (VLAN, OSPF), IPv4/IPv6, VPN (IPsec/SSL), Stormshield, Audit ANSSI    |
-| **Automatisation & Dev**   | Python (Expert), Ansible (IaC), Bash, PowerShell, Git, SQL                    |
+| **Automatisation & Dev**   | Python, Ansible (IaC), Bash, PowerShell, Git, SQL                    |
 | **Supervision & Ops**      | Nagios, GLPI, CrowdSec, Wireshark, Nginx                                      |
 
 ---
 ---
-## \---------- Réalisations Techniques & Projets d'Infrastructure ----------
+## ---------- Réalisations Techniques & Projets d'Infrastructure ----------
 Sélection de projets d'infrastructure et de sécurité simulant des environnements de production réels.
 
 ## -- ☁️ Infrastructures Cloud & Systèmes Hybrides --
-###  📂 Projet d'Architecture Cloud & Migration Haute Disponibilité (En cours)
+###  📂 [Projet d'Architecture Cloud & Migration Haute Disponibilité](https://github.com/FaramirDev/projet-migration-cloud-nimbus)
 
 - **Objectif** : Concevoir une infrastructure résiliente sur un fournisseur Cloud (AWS) pour garantir la continuité de service.
 
@@ -92,7 +92,7 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 - **Stack** : Méthode de gestion de projet, Visio/Draw.io, TCP/IP, Services réseau.
 
 ---
-## ---------- Expériences Passées *(Lead Technique VFX)* ----------
+## ---------- Expériences Passées *(Lead Technique - DevOps env VFX)* ----------
 Avant de me spécialiser en Admin Sys, j'ai piloté des workflows techniques pour des productions internationales (ex: Studio Miraculous).
 
 - **Automatisation de Pipeline**: Développement de boîtes à outils Python réduisant les tâches manuelles de 40% pour les départements techniques.
