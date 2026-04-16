@@ -36,7 +36,7 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 
 - **Stack** : Cloud Provider, Sécurité Cloud, Supervision.
 
-### 📂 [Projet d'Industrialisation d'un Parc Hybride & Stratégie de Backup](https://github.com/FaramirDev/projet-ansible-hybrid-parc-automatisation) 
+### 📂 [Projet d'Industrialisation Ansible - Parc Hybride & Stratégie de Backup](https://github.com/FaramirDev/projet-ansible-hybrid-parc-automatisation) 
 
 - **Objectif** : Automatiser le déploiement et la sécurisation d'un parc mixte (Windows/Linux) pour un studio de production.
 
