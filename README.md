@@ -32,7 +32,7 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 
 - **Objectif** : Concevoir une infrastructure résiliente sur un fournisseur Cloud (AWS) pour garantir la continuité de service.
 
-- **Réalisations** : Configuration de VPC/VNet, segmentation réseau, gestion des identités (IAM) et déploiement de passerelles de sécurité.
+- **Réalisations** : Configuration complete de l'architecture AWS. VPC, Subnet, SG, AWS ECS Fargate, RDS, Backup, S3, IAM, Cognito, WAF.
 
 - **Stack** : Cloud Provider, Sécurité Cloud, Supervision.
 
