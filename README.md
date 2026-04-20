@@ -95,7 +95,7 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 ## ---------- Projet Python ----------  
 
 ### 📂 [Projet Python d'Automatisation d'Audit avec Alerte - Linux ](https://github.com/FaramirDev/projet-python-automatisation-healcheck-linux)
-- **Objectif** : Auditer le Serveur/Client Linux de manière automatique, fournir des logs pour founir un historique et suivi complet.
+- **Objectif** : Auditer le Serveur/Client Linux de manière automatique, fournir des logs régulier pour un historique et suivi complet.
 
 - **Realisation** : Outil d'automatisation d'**Audit** systeme avec **remonté d'alerte** sur Serveur **Discord**. Scan réalisé a travers un **référentiel** établis. Rapport de Log en sortie **json** de l'ensemble Audité. Automatisation d'execution via **cron**.  
 
@@ -105,7 +105,7 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 - **Realisation** : Ensemble de projet autours de la manipulation et transformation de donnée sous python. 
 
 ---
-## ---------- Expériences Passées *(Lead Technique & DevOps env VFX)* ----------
+## ---------- Expériences Passées *(Developpeur, Lead & DevOps env VFX)* ----------
 Avant de me spécialiser en Admin Sys, j'ai piloté des workflows techniques pour des productions internationales (ex: Studio Miraculous).
 
 - **Automatisation de Pipeline**: Développement de boîtes à outils Python réduisant les tâches manuelles de 40% pour les départements techniques.
