@@ -6,7 +6,7 @@
 ## ---------- À propos de moi ----------
 Professionnel de l'IT avec une solide expérience de **5 ans en tant que Lead Technique** dans l'industrie du VFX, j'évolue aujourd'hui vers l'Administration d'Infrastructures et la Cybersécurité.
 
-Ma force réside dans ma capacité à coupler une vision **Développement (Python/APIs)** avec une gestion rigoureuse des **Infrastructures Systèmes et Réseaux.** J'approche chaque projet avec une philosophie "Automation & Security by Design".
+Ma force réside dans ma capacité à coupler une vision **Développement (Python/APIs)** avec une gestion rigoureuse des **Infrastructures Systèmes et Réseaux.** J'approche chaque projet avec une philosophie "**Automation & Security by Design**".
 
 - **Spécialité** : Automatisation de workflows complexes et durcissement (Hardening) de systèmes.
 
@@ -90,6 +90,19 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 - **Réalisations** : Création du Document d'Architecture Technique (DAT), schématisation logique/physique et mise en place des services de base (DHCP/DNS).
 
 - **Stack** : Méthode de gestion de projet, Visio/Draw.io, TCP/IP, Services réseau.
+
+---
+## ---------- Projet Python ----------  
+
+### 📂 [Projet Python d'Automatisation d'Audit avec Alerte - Linux ](https://github.com/FaramirDev/projet-python-automatisation-healcheck-linux)
+- **Objectif** : Auditer le Serveur/Client Linux de manière automatique, fournir des logs pour founir un historique et suivi complet.
+
+- **Realisation** : Outil d'automatisation d'**Audit** systeme avec **remonté d'alerte** sur Serveur **Discord**. Scan réalisé a travers un **référentiel** établis. Rapport de Log en sortie **json** de l'ensemble Audité. Automatisation d'execution via **cron**.  
+
+### 📂 [Projets Python Divers](https://github.com/FaramirDev/python-labs)
+- **Objectif** : Manipulation de données
+
+- **Realisation** : Ensemble de projet autours de la manipulation et transformation de donnée sous python. 
 
 ---
 ## ---------- Expériences Passées *(Lead Technique - DevOps env VFX)* ----------
