@@ -4,7 +4,7 @@
 
 ---
 ## ---------- À propos de moi ----------
-Professionnel de l'IT avec une solide expérience de **5 ans en tant que Developpeur Technique** dans l'industrie du VFX, j'évolue aujourd'hui vers l'Administration d'Infrastructures et la Cybersécurité.
+Professionnel de l'IT avec une solide expérience de **5 ans** en tant que **Pipeline Developpeur (Developpeur,Lead,DevOps)** dans l'industrie du VFX, j'évolue aujourd'hui vers l'Administration d'Infrastructures et la Cybersécurité.
 
 Ma force réside dans ma capacité à coupler une vision **Développement (Python)** avec une gestion rigoureuse des **Infrastructures Systèmes et Réseaux.** J'approche chaque projet avec une philosophie "**Automation & Security by Design**".
 
@@ -124,4 +124,4 @@ Avant de me spécialiser en Admin Sys, j'ai piloté des workflows techniques pou
 ## ---------- 📫 Me contacter ----------
 - **LinkedIn** : [Alexis Rousseau](https://www.linkedin.com/in/alexis-rousseau-admin/)
 
-- **Email** : alexisrousseau.work@gmail.com
+- **Email** : alexisrousseau.work@proton.me
