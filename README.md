@@ -105,7 +105,7 @@ Avant de me spécialiser en Admin Sys, j'ai piloté des workflows techniques pou
 ## ---------- Veille & Labs ----------
 - **Labs** : AWS - TryHackMe & Root-Me. 
 
-- **Communauté** : Veille constante sur les bulletins de l'ANSSI et les évolutions de l'IaC.
+- **Communauté** : Veille constante sur les bulletins de l'ANSSI.
 
 ---
 ## ---------- 📫 Me contacter ----------
