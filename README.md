@@ -4,9 +4,9 @@
 
 ---
 ## ---------- À propos de moi ----------
-Professionnel de l'IT avec une solide expérience de **5 ans en tant que Lead Technique** dans l'industrie du VFX, j'évolue aujourd'hui vers l'Administration d'Infrastructures et la Cybersécurité.
+Professionnel de l'IT avec une solide expérience de **5 ans en tant que Developpeur Technique** dans l'industrie du VFX, j'évolue aujourd'hui vers l'Administration d'Infrastructures et la Cybersécurité.
 
-Ma force réside dans ma capacité à coupler une vision **Développement (Python/APIs)** avec une gestion rigoureuse des **Infrastructures Systèmes et Réseaux.** J'approche chaque projet avec une philosophie "**Automation & Security by Design**".
+Ma force réside dans ma capacité à coupler une vision **Développement (Python)** avec une gestion rigoureuse des **Infrastructures Systèmes et Réseaux.** J'approche chaque projet avec une philosophie "**Automation & Security by Design**".
 
 - **Spécialité** : Automatisation de workflows complexes et durcissement (Hardening) de systèmes.
 
@@ -105,7 +105,7 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 - **Realisation** : Ensemble de projet autours de la manipulation et transformation de donnée sous python. 
 
 ---
-## ---------- Expériences Passées *(Lead Technique - DevOps env VFX)* ----------
+## ---------- Expériences Passées *(Lead Technique & DevOps env VFX)* ----------
 Avant de me spécialiser en Admin Sys, j'ai piloté des workflows techniques pour des productions internationales (ex: Studio Miraculous).
 
 - **Automatisation de Pipeline**: Développement de boîtes à outils Python réduisant les tâches manuelles de 40% pour les départements techniques.
