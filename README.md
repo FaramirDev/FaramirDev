@@ -1,17 +1,16 @@
 # 🛡️ Alexis Rousseau
 
-**Administrateur Système Réseaux & Cybersécurité** | **Automatisation Python** | **Expert Workflows IT**
+## Ingénieur Systèmes, Réseaux & Infrastructures | Automatisation & Cybersécurité
 
 ---
-## ---------- À propos de moi ----------
-Professionnel de l'IT avec une solide expérience de **5 ans** en tant que **Pipeline Developpeur (Developpeur,Lead,DevOps)** dans l'industrie du VFX, j'évolue aujourd'hui vers l'Administration d'Infrastructures et la Cybersécurité.
+## ---------- À propos ---------
+**Ingénieur Systèmes & Infrastructures** avec un parcours de **5 ans en ingénierie de pipelines VFX** (Développement, Lead & DevOps), j'apporte aujourd'hui mon expertise à la conception et à la sécurisation des environnements IT critiques.
 
-Ma force réside dans ma capacité à coupler une vision **Développement (Python)** avec une gestion rigoureuse des **Infrastructures Systèmes et Réseaux.** J'approche chaque projet avec une philosophie "**Automation & Security by Design**".
+Ma force réside dans ma capacité à coupler une culture **Développement** avec une gestion rigoureuse des **Infrastructures Systèmes et Réseaux**. J'approche chaque projet avec une philosophie "**Automation & Security by Design**".
 
-- **Spécialité** : Automatisation de workflows complexes et durcissement (Hardening) de systèmes.
+- **Spécialité** : Industrialisation de workflows complexes, IaC (Ansible) et durcissement (Hardening) de systèmes Linux/Windows.
 
-- **Valeur ajoutée** : Capacité à résoudre des incidents critiques et à industrialiser des parcs informatiques hétérogènes.
-
+- **Valeur ajoutée**: Résolution d'incidents critiques (L2/L3), gestion de la haute disponibilité et déploiement de parcs informatiques hétérogènes.
 ---
 ## ---------- Expertise Techniques ----------
 
@@ -105,15 +104,14 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 - **Realisation** : Ensemble de projet autours de la manipulation et transformation de donnée sous python. 
 
 ---
-## ---------- Expériences Passées *(Developpeur, Lead & DevOps env VFX)* ----------
-Avant de me spécialiser en Admin Sys, j'ai piloté des workflows techniques pour des productions internationales (ex: Studio Miraculous).
+## ---------- Expériences Passées (Ingénierie Systèmes & Workflow) ----------
+*Avant de me spécialiser en Admin Sys & Cyber, j'ai piloté des infrastructures techniques pour des productions internationales à haute disponibilité (ex: Studio Miraculous).*
 
-- **Automatisation de Pipeline**: Développement de boîtes à outils Python réduisant les tâches manuelles de 40% pour les départements techniques.
+- **Industrialisation & Automatisation** : Conception de frameworks **Python/Bash** permettant l'automatisation de pipelines critiques. Gain d'efficacité opérationnelle de **40%** via la réduction drastique des tâches manuelles et des erreurs humaines.
 
-- **Gestion de parc & Rendu** : Optimisation et monitoring de fermes de rendu sous Linux (Renderfarm), gestion des flux de données massifs.
+- **Administration (Renderfarms)** : Optimisation, monitoring et gestion de fermes de calcul distribué. Expertise en gestion de flux de données massifs et en performance système (I/O, CPU/RAM) sous Linux.
 
-- **Leadership** : Encadrement technique des équipes et gestion du stress en environnement de production critique.
-
+- **Leadership Technique & MCO**: Encadrement d'équipes techniques et gestion du Maintien en Condition Opérationnelle (MCO) sous forte pression. Résolution d'incidents critiques en temps réel pour garantir le respect des deadlines de production.
 ---
 ## ---------- Veille & Labs ----------
 - **Labs** : AWS - TryHackMe & Root-Me. 
