@@ -70,7 +70,7 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 - **Stack** : IPv6, Cisco, Routage Dual-Stack.
 
 ## -- 🛡️ Cybersécurité & Durcissement (Hardening) --
-### 📂 [Projet Sécurisation & Durcissement d'Infrastructures Web - Wordpress](https://github.com/FaramirDev/projet-web-infrastructure-wordpress-security)
+### 📂 [Projet Sécurisation d'Infrastructures Web - Wordpress](https://github.com/FaramirDev/projet-web-infrastructure-wordpress-security)
 - **Objectif** : Protéger des services Web (Extranet) contre les menaces externes et les intrusions.
 
 - **Réalisations** : Hardening de serveurs Nginx/Apache, authentification centralisée via LDAP et chiffrement TLS.
