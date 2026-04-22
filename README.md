@@ -92,6 +92,12 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 
 ---
 ## ---------- Projet Python ----------  
+### 📂 [Projet Python Scan Network Audit - Linux ](https://github.com/FaramirDev/projet-python-network-scanner-audit-linux)
+- **Objectif** : Cartographier un segment réseau (lan) et analyser les expositions des services sur chaques Hotes decouvert. Comprendre et Analyser les expositions des potentiels vecteurs.
+
+- **Realisation** : NetPulse-Audit est un outil d'exploration réseau développé en Python. Permet de générer un fichier Json de l'ensemble de la cartographie réseau découvert. 
+
+- **Avertissement Legal** : Cet outil est conçu pour un usage strictement pédagogique et professionnel dans le cadre d'audits de sécurité autorisés. L'auteur décline toute responsabilité en cas d'usage malveillant. Nous rappelons qu'il strictement interdit de scanner un réseau sans y avoir été autorisé par le propriétaire.
 
 ### 📂 [Projet Python d'Automatisation d'Audit avec Alerte - Linux ](https://github.com/FaramirDev/projet-python-automatisation-healcheck-linux)
 - **Objectif** : Auditer le Serveur/Client Linux de manière automatique, fournir des logs régulier pour un historique et suivi complet.
