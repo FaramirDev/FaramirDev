@@ -95,7 +95,7 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 ### 📂 [Projet Defender Sentinel HIDS sous Python - Linux  ](https://github.com/FaramirDev/Projet-Audit-Network-Scanner-Linux)
 - **Objectif** : Réaliser un outil HIDS sous python permettant de suivre l'activité des connexions SSH et de bannir automatique les potentielles attaque par brutes forces. 
 
-- **Realisation** : Réalisation de Defender Sentil permettant de fournir des logs et suivre l'activité des connexions au systeme avec un blocage automatique sur le noyaux si détection de brute force avec une Remonté d'Alerte sur Serveur discord. 
+- **Realisation** : Réalisation de Defender Sentinel permettant de fournir des logs et suivre l'activité des connexions au systeme avec un blocage automatique sur le noyaux si détection de brute force avec une Remonté d'Alerte automatique sur Serveur discord. 
 
 ### 📂 [Projet Audit Scan Network Vulnerability sous Python - Linux ](https://github.com/FaramirDev/Projet-Audit-Network-Scanner-Linux)
 - **Objectif** : Cartographier un segment réseau (lan) et analyser les expositions des services sur chaques Hotes decouvert. Comprendre et Analyser les expositions des potentiels vecteurs.
