@@ -107,7 +107,7 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 ### 📂 [Projet Audit Health Shield sous Python - Linux ](https://github.com/FaramirDev/Projet-Audit-Health-Shield-Linux)
 - **Objectif** : Auditer le Serveur/Client Linux de manière automatique, fournir des logs régulier pour un historique et suivi complet. Monitoring & Scan systeme
 
-- **Realisation** : Outil d'automatisation d'**Audit** systeme avec **remonté d'alerte** sur Serveur **Discord**. Scan réalisé a travers un **référentiel** établis. Rapport de Log en sortie **json** de l'ensemble Audité. Automatisation d'execution via **cron**. Monitoring Systeme, Processus, RAM, DISK & Critique Path
+- **Realisation** : Outil d'automatisation d'**Audit** systeme avec **remonté d'alerte** sur Serveur **Discord**. Scan réalisé a travers un **référentiel** établis. Rapport de Log en sortie **json** de l'ensemble Audité. Automatisation d'execution via **cron**. Monitoring Systeme.
 
 ### 📂 [Projets Python Divers](https://github.com/FaramirDev/python-labs)
 - **Objectif** : Manipulation de données
