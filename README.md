@@ -92,17 +92,22 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 
 ---
 ## ---------- Projet Python ----------  
-### 📂 [Projet Python Scan Network Audit - Linux ](https://github.com/FaramirDev/projet-python-network-scanner-audit-linux)
+### 📂 [Projet Defender Sentinel HIDS sous Python - Linux  ](https://github.com/FaramirDev/Projet-Audit-Network-Scanner-Linux)
+- **Objectif** : Réaliser un outil HIDS sous python permettant de suivre l'activité des connexions SSH et de bannier automatique les potentiels attaque par brutes forces. 
+
+- **Realisation** : Réalisation de Defender Sentil permettant de fournir des logs et suivre l'activité des connexions au systeme avec un blocage automatique sur le noyaux si détection de brute force avec une Remonté d'Alerte sur Serveur discord. 
+
+### 📂 [Projet Audit Scan Network Vulnerability sous Python - Linux ](https://github.com/FaramirDev/Projet-Audit-Network-Scanner-Linux)
 - **Objectif** : Cartographier un segment réseau (lan) et analyser les expositions des services sur chaques Hotes decouvert. Comprendre et Analyser les expositions des potentiels vecteurs.
 
 - **Realisation** : NetPulse-Audit est un outil d'exploration réseau développé en Python. Permet de générer un fichier Json de l'ensemble de la cartographie réseau découvert. 
 
 - **Avertissement Legal** : Cet outil est conçu pour un usage strictement pédagogique et professionnel dans le cadre d'audits de sécurité autorisés. L'auteur décline toute responsabilité en cas d'usage malveillant. Nous rappelons qu'il strictement interdit de scanner un réseau sans y avoir été autorisé par le propriétaire.
 
-### 📂 [Projet Python d'Automatisation d'Audit avec Alerte - Linux ](https://github.com/FaramirDev/projet-python-automatisation-healcheck-linux)
-- **Objectif** : Auditer le Serveur/Client Linux de manière automatique, fournir des logs régulier pour un historique et suivi complet.
+### 📂 [Projet Audit Health Shield sous Python - Linux ](https://github.com/FaramirDev/Projet-Audit-Health-Shield-Linux)
+- **Objectif** : Auditer le Serveur/Client Linux de manière automatique, fournir des logs régulier pour un historique et suivi complet. Monitoring & Scan systeme
 
-- **Realisation** : Outil d'automatisation d'**Audit** systeme avec **remonté d'alerte** sur Serveur **Discord**. Scan réalisé a travers un **référentiel** établis. Rapport de Log en sortie **json** de l'ensemble Audité. Automatisation d'execution via **cron**.  
+- **Realisation** : Outil d'automatisation d'**Audit** systeme avec **remonté d'alerte** sur Serveur **Discord**. Scan réalisé a travers un **référentiel** établis. Rapport de Log en sortie **json** de l'ensemble Audité. Automatisation d'execution via **cron**. Monitoring Systeme, RAM, DISK & Critique Path
 
 ### 📂 [Projets Python Divers](https://github.com/FaramirDev/python-labs)
 - **Objectif** : Manipulation de données
