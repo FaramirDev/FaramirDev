@@ -27,7 +27,7 @@ Ma force réside dans ma capacité à coupler une culture **Développement** ave
 Sélection de projets d'infrastructure et de sécurité simulant des environnements de production réels.
 
 ## -- ☁️ Infrastructures Cloud & Systèmes Hybrides --
-###  📂 [Projet d'Architecture Cloud & Migration Haute Disponibilité](https://github.com/FaramirDev/projet-migration-cloud-nimbus)
+###  📂 [Projet Architecture Cloud & Migration Haute Disponibilité](https://github.com/FaramirDev/projet-migration-cloud-nimbus)
 
 - **Objectif** : Concevoir une infrastructure résiliente sur un fournisseur Cloud (AWS) pour garantir la continuité de service.
 
@@ -92,8 +92,8 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 
 ---
 ## ---------- Projet Python ----------  
-### 📂 [Projet Sentinel-Defender : HIDS sous Python - Linux  ](https://github.com/FaramirDev/Projet-Audit-Network-Scanner-Linux)
-- **Objectif** : Réaliser un outil HIDS sous python permettant de suivre l'activité des connexions **SSH** et de bannir automatique les potentielles attaque par brutes forces. 
+### 📂 [Projet Sentinel-Defender : HIDS sous Python - Linux  ](https://github.com/FaramirDev/Projet-Defender-Sentinel-Log-HIDS-Linux)
+- **Objectif** : Réaliser un outil **HIDS** sous python permettant de suivre l'activité des connexions **SSH** et de bannir automatique les potentielles attaque par brutes forces. 
 
 - **Realisation** : Réalisation de Defender Sentinel permettant de fournir des logs et suivre l'activité des connexions au systeme avec un blocage automatique sur le noyaux si détection de brute force avec une Remonté d'Alerte automatique sur Serveur discord. 
 
