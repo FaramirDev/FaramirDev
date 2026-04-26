@@ -4,7 +4,7 @@
 
 ---
 ## ---------- À propos ---------
-**Administrateur Systèmes & Infrastructures** avec un parcours de **5 ans en ingénierie de pipelines VFX** (Développement, Lead & DevOps), j'apporte aujourd'hui mon expertise à la conception et à la sécurisation des environnements IT critiques.
+**Administrateur Systèmes & Infrastructures** avec un parcours de **5 ans en ingénierie de pipelines VFX** (Développement, Lead & DevOps), j'apporte aujourd'hui une expertise à la conception et à la sécurisation des environnements IT critiques.
 
 Ma force réside dans ma capacité à coupler une culture **Développement** avec une gestion rigoureuse des **Infrastructures Systèmes et Réseaux**. J'approche chaque projet avec une philosophie "**Automation & Security by Design**".
 
