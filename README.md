@@ -1,14 +1,14 @@
 # 🛡️ Alexis Rousseau
 
-## Ingénieur Systèmes, Réseaux & Infrastructures | Automatisation & Cybersécurité
+## Administrateur Systèmes, Réseaux & Infrastructures | Automatisation & Cybersécurité 
 
 ---
 ## ---------- À propos ---------
-**Ingénieur Systèmes & Infrastructures** avec un parcours de **5 ans en ingénierie de pipelines VFX** (Développement, Lead & DevOps), j'apporte aujourd'hui mon expertise à la conception et à la sécurisation des environnements IT critiques.
+**Administrateur Systèmes & Infrastructures** avec un parcours de **5 ans en ingénierie de pipelines VFX** (Développement, Lead & DevOps), j'apporte aujourd'hui mon expertise à la conception et à la sécurisation des environnements IT critiques.
 
 Ma force réside dans ma capacité à coupler une culture **Développement** avec une gestion rigoureuse des **Infrastructures Systèmes et Réseaux**. J'approche chaque projet avec une philosophie "**Automation & Security by Design**".
 
-- **Spécialité** : Industrialisation de workflows complexes, IaC (Ansible) et durcissement (Hardening) de systèmes Linux/Windows.
+- **Spécialité** : Industrialisation de workflows complexes, **Python/Bash/Powershell/SQL** et nottament **IaC** (Ansible, Terraform) et durcissement (Hardening) de systèmes **Linux/Windows.**
 
 - **Valeur ajoutée**: Résolution d'incidents critiques (L2/L3), gestion de la haute disponibilité et déploiement de parcs informatiques hétérogènes.
 ---
@@ -116,7 +116,7 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 
 ---
 ## ---------- Expériences Passées (Ingénierie Systèmes & Workflow) ----------
-*Avant de me spécialiser en Admin Sys & Cyber, j'ai piloté des infrastructures techniques pour des productions internationales à haute disponibilité (ex: Studio Miraculous).*
+*Avant de me spécialiser en Admin Sys & Cyber, j'ai travaillé et développé des infrastructures techniques pour des productions internationales à haute disponibilité (ex: Studio Miraculous).*
 
 - **Industrialisation & Automatisation** : Conception de frameworks **Python/Bash** permettant l'automatisation de pipelines critiques. Gain d'efficacité opérationnelle de **40%** via la réduction drastique des tâches manuelles et des erreurs humaines.
 
