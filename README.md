@@ -4,9 +4,16 @@
 
 ---
 ## ---------- À propos ---------
-**Administrateur Systèmes & Infrastructures** avec un parcours de **5 ans en ingénierie de pipelines VFX** (Développement, Lead & DevOps), j'apporte aujourd'hui une expertise à la conception et à la sécurisation des environnements IT critiques.
+**Administrateur Systèmes & Infrastructures** avec une expertise technique de 5 ans d'expérience en environnements critiques, je dédie aujourd'hui mon savoir-faire à l'administration et à la sécurisation des infrastructures SI. 
 
-Ma force réside dans ma capacité à coupler une culture **Développement** avec une gestion rigoureuse des **Infrastructures Systèmes et Réseaux**. J'approche chaque projet avec une philosophie "**Automation & Security by Design**".
+Spécialiste du **durcissement** (Hardening) et de la **défense réseau** (Stormshield, Cisco, VPN), je maîtrise **l'automatisation**nAnsible/Python) pour assurer le **Maintien en Condition Opérationnelle**, la **conformité de la donnée** et des **Acces sécurisé**.
+
+Mon parcours de cinq ans en tant que Lead Technique/DevOps dans l’industrie du VFX m'a apporté une grande rigueur opérationnelle. C'est dans ce cadre, au contact d’environnements critiques où la confidentialité des données est une priorité absolue, que j'ai développé un vif intérêt pour l'infrastructure. 
+
+Je finalise aujourd'hui une spécialisation d’Administrateur en Systèmes et Cybersécurité pour mettre cette expérience au service d'infrastructure SI.
+
+
+Ma force réside dans ma capacité à coupler une culture **Développement** avec une gestion rigoureuse des **Infrastructures Systèmes et Réseaux**. J'approche chaque projet sur le modele **Zero Trust** & du **moindre privilège** couplé a une philosophie "**Automation & Security by Design**". 
 
 - **Spécialité** : Industrialisation de workflows complexes, **Python/Bash/Powershell/SQL** et nottament **IaC** (Ansible, Terraform) et durcissement (Hardening) de systèmes **Linux/Windows.**
 
