@@ -8,7 +8,7 @@
 
 Spécialiste du **durcissement** (Hardening) et de la **défense réseau** (Stormshield, Cisco, VPN), je maîtrise **l'automatisation** (Ansible/Python) pour assurer le **Maintien en Condition Opérationnelle**, la **conformité de la donnée** et des **Acces sécurisé**.
 
-Mon parcours de cinq ans en tant que Lead Technique/DevOps dans l’industrie du VFX m'a apporté une grande rigueur opérationnelle. C'est dans ce cadre, au contact d’environnements critiques où la confidentialité des données est une priorité absolue, que j'ai développé un vif intérêt pour l'infrastructure. 
+Mon parcours de cinq ans en tant que **Lead Technique/DevOps** dans l’industrie du VFX m'a apporté une grande rigueur opérationnelle. C'est dans ce cadre, au contact d’environnements critiques où la confidentialité des données est une priorité absolue, que j'ai développé un vif intérêt pour l'infrastructure. 
 
 Je finalise aujourd'hui une spécialisation d’Administrateur en Systèmes et Cybersécurité pour mettre cette expérience au service d'infrastructure SI.
 
