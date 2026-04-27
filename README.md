@@ -122,7 +122,7 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 - **Realisation** : Ensemble de projet autours de la manipulation et transformation de donnée sous python. 
 
 ---
-## ---------- Expériences Passées (Ingénierie Systèmes & Workflow) ----------
+## ---------- Expériences Passées (Automatisation Systèmes & Workflow) ----------
 *Avant de me spécialiser en Admin Sys & Cyber, j'ai travaillé et développé des infrastructures techniques pour des productions internationales à haute disponibilité (ex: Studio Miraculous).*
 
 - **Industrialisation & Automatisation** : Conception de frameworks **Python/Bash** permettant l'automatisation de pipelines critiques. Gain d'efficacité opérationnelle de **40%** via la réduction drastique des tâches manuelles et des erreurs humaines.
