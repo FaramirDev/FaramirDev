@@ -41,23 +41,20 @@ Mon parcours de 5 ans en tant que **Lead Technique/DevOps** dans l'industrie du 
 
 ## ---------- Focus Projet : Sécurité Défensive & Développement Cyber ----------
 
-### 🛡️ [Sentinel SIEM & HIDS] - Solution unifiée d'analyse d'événements et de gestion de la sécurité
+### 🛡️ [Projet Sentinel SIEM & HIDS](https://github.com/FaramirDev/projet-sentinel-siem-hids) - Solution unifiée d'analyse d'événements et de gestion de la sécurité
 
 **Objectif :** Développer une solution légère et modulaire pour centraliser la visibilité de la sécurité d'un hôte Linux, automatiser l'analyse des vulnérabilités locales/réseau et bloquer activement les menaces en temps réel.
 
 **Architecture du projet :**
 Le **projet Sentinel SIEM** est l'aboutissement d'une suite de briques logicielles indépendantes regroupées au sein d'une application web de monitoring.
 
-* **📂 [Module 1 - Projet Sentinel-Health (Audit Système)](https://github.com/FaramirDev/Projet-Audit-Health-Shield-Linux) :** Audit de santé système avec exécution périodique (Cron), détection des écarts de configuration selon un référentiel de sécurité et alertes Discord en cas d'anomalies.
+* **📂 [Module 1 -Sentinel-Health (Audit Système)](https://github.com/FaramirDev/Projet-Audit-Health-Shield-Linux) :** Audit de santé système avec exécution périodique (Cron), détection des écarts de configuration selon un référentiel de sécurité et alertes Discord en cas d'anomalies.
 
-* **📂 [Module 2 - Projet Sentinel-NetPulse (Scan & Cartographie)](https://github.com/FaramirDev/Projet-Audit-Network-Scanner-Linux) :** Outil de reconnaissance réseau pour identifier les hôtes actifs, cartographier les ports ouverts et analyser les bannières de services. Génération de rapports au format JSON.
+* **📂 [Module 2 - Sentinel-NetPulse (Scan & Cartographie)](https://github.com/FaramirDev/Projet-Audit-Network-Scanner-Linux) :** Outil de reconnaissance réseau pour identifier les hôtes actifs, cartographier les ports ouverts et analyser les bannières de services. Génération de rapports au format JSON.
 
-* **📂 [Module 3 - Projet Sentinel-Defender (HIDS Daemon)](https://github.com/FaramirDev/Projet-Defender-Sentinel-Log-HIDS-Linux) :** Daemon Service d'arrière-plan analysant les logs d'authentification (SSH), appliquant un bannissement dynamique des adresses IP malveillantes via `iptables` (IPS) et transmettant les alertes en temps réel.
+* **📂 [Module 3 - Sentinel-Defender (HIDS Daemon)](https://github.com/FaramirDev/Projet-Defender-Sentinel-Log-HIDS-Linux) :** Daemon Service d'arrière-plan analysant les logs d'authentification (SSH), appliquant un bannissement dynamique des adresses IP malveillantes via `iptables` (IPS) et transmettant les alertes en temps réel.
 
-
-### **📂 [Projet - Sentinel SIEM & HIDS (Module 4. Centralisation & UI)](https://github.com/FaramirDev/projet-sentinel-siem-hids) :** 
-
-Interface web développée sous Python (Streamlit) permettant la visualisation des métriques de sécurité, la centralisation des logs d'audit et la remédiation rapide des incidents.
+* **📂 [Module 4. Sentinel SIEM & HIDS ( Centralisation & UI)](https://github.com/FaramirDev/projet-sentinel-siem-hids) :** Interface web développée sous Python (Streamlit) permettant la visualisation des métriques de sécurité, la centralisation des logs d'audit et la remédiation rapide des incidents.
 
 **Stack technique :** Python 3, Streamlit, Linux Security, Daemons, Cron, API Discord, JSON.
 
