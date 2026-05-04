@@ -118,7 +118,9 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 Avant de me spécialiser en Administration Système & Cybersécurité, j'ai évolué pendant 5 ans dans des environnements de production VFX exigeants à haute disponibilité (ex: Studio Miraculous).
 
 * **Automatisation & CI/CD :** Conception de frameworks Python/Bash pour l'industrialisation de pipelines critiques. Réduction des erreurs humaines et gain d'efficacité opérationnelle de 40%.
+
 * **Gestion d'Infrastructure & MCO :** Optimisation, monitoring et gestion de fermes de calcul distribué (Renderfarms). Gestion de flux de données massifs et de la performance système (I/O, CPU/RAM) sous Linux.
+
 * **Résolution d'Incidents (L2/L3) :** Maintien en Condition Opérationnelle (MCO) sous forte pression et gestion des accès sécurisés pour des équipes de production internationales.
 
 ---
