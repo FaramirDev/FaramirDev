@@ -80,7 +80,7 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 
 ### 🌐 Réseaux & Interconnexions Critiques
 
-* **📂 [Projet Conception d'un Backbone Réseau Multi-sites](https://github.com/FaramirDev/projet-ansible-hybrid-parc-automatisation)**
+* **📂 [Projet Conception d'un Backbone Réseau Multi-sites](https://github.com/FaramirDev/projet-cisco-architecture-network-secure)**
     * ***Réalisations :*** Routage dynamique OSPF, redondance de passerelle (HSRP), agrégation de liens (EtherChannel) et segmentation fine par VLAN.
 
     * *Stack :* Cisco IOS, Routage L3, Switching L2, IPv4.
