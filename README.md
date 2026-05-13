@@ -18,11 +18,11 @@
 
 ## ---------- À propos ---------
 
-Administrateur Systèmes & Infrastructures avec 5 ans d'expérience en environnements critiques, je dédie aujourd'hui mon savoir-faire à l'administration et à la sécurisation des infrastructures SI.
+Administrateur Systèmes & Infrastructures avec 5 ans d'expérience en **developpement RnD**, **Automatisation** & **Culture DevOps**, je dédie aujourd'hui mon savoir-faire à l'administration et à la sécurisation des infrastructures SI.
 
 Spécialiste du **durcissement (Hardening)** et de la **défense réseau** (Stormshield, Cisco, VPN), je maîtrise **l'IaC et l'automatisation** (Ansible, Python, Terraform) pour assurer le Maintien en Condition Opérationnelle (MCO), la conformité et la gestion des accès selon les principes **Zero Trust** et du **moindre privilège**.
 
-Mon parcours de 5 ans en tant que **Lead Technique/DevOps** dans l'industrie du VFX m'a apporté une grande rigueur opérationnelle. C'est au contact d'environnements exigeants, où la confidentialité des données est une priorité absolue, que j'ai développé un vif intérêt pour l'architecture système. Ma force réside dans ma capacité à coupler une forte culture du développement logiciel avec une gestion rigoureuse des infrastructures de production.
+Mon parcours de 5 ans en tant que **Lead Technique & Dev** dans l'industrie du VFX (Service Numerique, Pipeline Image de Synthese, *client comme* **M6, Tf1**) m'a apporté une grande rigueur opérationnelle. C'est au contact d'environnements exigeants, où la confidentialité des données est une priorité absolue, que j'ai développé un vif intérêt pour l'architecture système. Ma force réside dans ma capacité à coupler une forte culture du développement logiciel avec une gestion rigoureuse des infrastructures de production.
 
 **Valeur ajoutée :** Résolution d'incidents critiques (L2/L3), déploiement de parcs hétérogènes (Linux/Windows), et développement d'outils de sécurité sur mesure.
 
@@ -34,8 +34,8 @@ Mon parcours de 5 ans en tant que **Lead Technique/DevOps** dans l'industrie du 
 |----------------------------|-------------------------------------------------------------------------------|
 | **Systemes & Cloud**       | Linux (Debian/RH), Windows Server (AD/GPO), Azure/AWS, Docker, VMware         |
 | **Réseaux & Security**     | Architecture Cisco (VLAN, OSPF), IPv4/IPv6, VPN (IPsec/SSL), Stormshield, Audit ANSSI    |
-| **Automatisation & Dev**   | Python, Ansible (IaC), Bash, PowerShell, Git, SQL                    |
-| **Supervision & Ops**      | Nagios, GLPI, CrowdSec, Wireshark, Nginx                                      |
+| **Automatisation & Dev**   | Python, Ansible (IaC), Bash, PowerShell, Git, Terraform, HTML/CSS                 |
+| **Supervision & Ops**      | Nagios, GLPI, CrowdSec, Wireshark, Nginx, Centreon, Zabbix, Rsyslog                                      |
 
 ---
 
@@ -113,15 +113,15 @@ Sélection de projets d'infrastructure et de sécurité simulant des environneme
 
 ---
 
-## ---------- Expériences Passées (Expertise Ops & Automatisation) ----------
+## ---------- Expériences Passées (Expertise Dev & Automatisation) ----------
 
-Avant de me spécialiser en Administration Système & Cybersécurité, j'ai évolué pendant 5 ans dans des environnements de production VFX exigeants à haute disponibilité (ex: Studio Miraculous).
+Avant de me spécialiser en **Administration Système & Cybersécurité**, j'ai évolué pendant 5 ans dans des environnements de production VFX (Pipeline numérique, création d'asset, suivi et livraison) exigeants à haute disponibilité (ex: Studio Miraculous).
 
-* **Automatisation & CI/CD :** Conception de frameworks Python/Bash pour l'industrialisation de pipelines critiques. Réduction des erreurs humaines et gain d'efficacité opérationnelle de 40%.
+* **Automatisation & RnD :** Conception de frameworks Python/Bash pour l'industrialisation de pipelines critiques. Réduction des erreurs humaines et gain d'efficacité opérationnelle de 40%.
 
-* **Gestion d'Infrastructure & MCO :** Optimisation, monitoring et gestion de fermes de calcul distribué (Renderfarms). Gestion de flux de données massifs et de la performance système (I/O, CPU/RAM) sous Linux.
+* **Gestion de Pipeline d'Asset & MCO :** Optimisation, monitoring et gestion de fermes de calcul distribué (Renderfarms). Gestion de flux de données massifs sous Windows/Linux.
 
-* **Résolution d'Incidents (L2/L3) :** Maintien en Condition Opérationnelle (MCO) sous forte pression et gestion des accès sécurisés pour des équipes de production internationales.
+* **Résolution d'Incidents (L2/L3) :** Maintien en Condition Opérationnelle (MCO) et investigation des différents incidents.
 
 ---
 ## ---------- Me contacter ----------
